@@ -1,0 +1,5 @@
+-f https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html
+torch_nightly
+fastai
+flask
+gunicorn
